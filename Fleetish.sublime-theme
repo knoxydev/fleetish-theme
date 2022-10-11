@@ -374,7 +374,7 @@
       "tint_index": 0,
       "tab_overlap": 0,
       "tab_width": 80,
-      "tab_height": 35,
+      "tab_height": 27,
       "mouse_wheel_switch": false,
       "tint_modifier": "var(tabInactiveBackground)"
     },
