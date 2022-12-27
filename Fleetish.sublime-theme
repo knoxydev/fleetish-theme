@@ -131,7 +131,7 @@
     {
       "class": "disclosure_button_control",
       "content_margin": [9,9],
-      "layer0.texture": "Theme - Texel/Texel/folder-closed@2x.png",
+      "layer0.texture": "Theme - Fleetish/Fleetish/folder-closed@2x.png",
       "layer0.tint": [170,170,170],
       "layer0.opacity": 1,
       "layer0.inner_margin": [2,2]
@@ -173,14 +173,14 @@
           "attributes": ["selected"]
         }
       ],
-      "layer0.texture": "Theme - Texel/Texel/folder-closed@2x.png",
+      "layer0.texture": "Theme - Fleetish/Fleetish/folder-closed@2x.png",
       "layer0.tint": [170,170,170],
       "layer0.opacity": 1
     },
     {
       "class": "disclosure_button_control",
       "attributes": ["expanded"],
-      "layer0.texture": "Theme - Texel/Texel/folder-open@2x.png"
+      "layer0.texture": "Theme - Fleetish/Fleetish/folder-open@2x.png"
     },
     {
       "class": "disclosure_button_control",
@@ -191,7 +191,7 @@
           "attributes": ["hover"]
         }
       ],
-      "layer0.texture": "Theme - Texel/Texel/folder-open@2x.png"
+      "layer0.texture": "Theme - Fleetish/Fleetish/folder-open@2x.png"
     },
     {
       "class": "disclosure_button_control",
@@ -202,13 +202,13 @@
           "attributes": ["selected"]
         }
       ],
-      "layer0.texture": "Theme - Texel/Texel/folder-open@2x.png"
+      "layer0.texture": "Theme - Fleetish/Fleetish/folder-open@2x.png"
     },
     {
       "class": "disclosure_button_control",
       "settings": ["soda_folder_icons"],
       "attributes": ["expanded"],
-      "layer0.texture": "Theme - Texel/Texel/folder-open@2x.png"
+      "layer0.texture": "Theme - Fleetish/Fleetish/folder-open@2x.png"
     },
     {
       "class": "disclosure_button_control",
@@ -220,7 +220,7 @@
           "attributes": ["hover"]
         }
       ],
-      "layer0.texture": "Theme - Texel/Texel/folder-open@2x.png"
+      "layer0.texture": "Theme - Fleetish/Fleetish/folder-open@2x.png"
     },
     {
       "class": "disclosure_button_control",
@@ -232,7 +232,7 @@
           "attributes": ["selected"]
         }
       ],
-      "layer0.texture": "Theme - Texel/Texel/folder-open@2x.png"
+      "layer0.texture": "Theme - Fleetish/Fleetish/folder-open@2x.png"
     },
     {
       "class": "vcs_status_badge",
