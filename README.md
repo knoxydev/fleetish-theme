@@ -2,7 +2,7 @@
 
 ## Fleetish is a minimalistic theme based on JetBrains Fleet
 
-![Иллюстрация к проекту](https://github.com/nkr413/fleetish-theme/blob/main/readme-docs/desktop-pic.png)
+![Иллюстрация к проекту](https://github.com/knoxydev/fleetish-theme/blob/main/readme-docs/desktop-pic.png)
 
 
 ### Installation
